@@ -1,0 +1,6 @@
+Flask
+langchain
+qrcode
+pyngrok
+py2neo
+gunicorn
