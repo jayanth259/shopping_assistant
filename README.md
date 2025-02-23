@@ -1,1 +1,1 @@
-# shopping_assistant
+# Whatsapp virtual shopping assistant
